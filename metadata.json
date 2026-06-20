@@ -1,0 +1,6 @@
+{
+  "name": "ES Detailing",
+  "description": "Premium professional interior automotive detailing services. Expert carpet extraction, upholstery deep-cleaning, leather conditioning, and meticulously detailed consoles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
